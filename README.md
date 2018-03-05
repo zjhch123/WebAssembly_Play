@@ -1,5 +1,10 @@
 # Wow! WebAssembly!
 
+## 运行:
+1. `git clone https://github.com/zjhch123/WebAssembly_Play.git`
+2. `cd WebAssembly_Play`
+3. 在当前目录随便启一个服务器
+
 ## Env:
 1. macOS 10.13.3
 2. [emscripten](https://github.com/kripken/emscripten)
