@@ -16,7 +16,7 @@
 Error downloading URL 'https://github.com/kripken/emscripten/archive/1.37.34.tar.gz': <urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:661)>
 ```
 解决:
-1. 打开浏览器，下载[https://github.com/kripken/emscripten/archive/1.37.34.tar.gz]`https://github.com/kripken/emscripten/archive/1.37.34.tar.gz`
+1. 打开浏览器，下载[https://github.com/kripken/emscripten/archive/1.37.34.tar.gz](https://github.com/kripken/emscripten/archive/1.37.34.tar.gz)
 2. 将下载好的文件命名改为和链接最后一个/之后的文件名一样，例如这里改成`1.37.34.tar.gz`
 3. 将下载好的文件拖入`zips`文件夹里，重新运行安装命令即可
 
